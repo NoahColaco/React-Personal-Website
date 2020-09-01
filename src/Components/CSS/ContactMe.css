@@ -1,0 +1,48 @@
+.linked-in-class{
+    text-align: center;
+    width: 35%;
+    margin-left: 8%;
+    margin-top: 30px;
+    float: left;
+}
+
+#linkedin-image{
+    width: 120px;
+    height: auto;
+}
+
+.e-mail-class{
+    text-align: center;
+    width: 34%;
+    margin-left: 57%;
+    margin-top: 50px;
+}
+
+#email-image{
+    padding-top: 7px;
+    width: 100px;
+    height: auto;
+}
+
+#contact-me-section{
+    display: inline;
+}
+
+#home{
+    border-bottom: 1px black solid;
+    margin-top: 0px;
+}
+
+
+@media(max-width:875px){
+    
+    .linked-in-class{
+        float: none;
+        margin-left: 35%;
+    }
+
+    .e-mail-class{
+        margin-left: 35%;
+    }
+
+}

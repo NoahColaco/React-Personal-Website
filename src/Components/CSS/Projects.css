@@ -1,0 +1,46 @@
+#project1-table{
+    table-layout: auto;
+    width: 35%;
+    float: left;
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-bottom: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#project2-table{
+    table-layout: auto;
+    width: 35%;
+    margin-top: 57px;
+    margin-left: 54%;
+    margin-bottom: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.project-table-header{
+    font-size: 20px;
+}
+
+.project-table-header a{
+    color:rgb(85, 158, 255);
+    text-decoration: underline;
+}
+
+.project-table-header a:active{
+    color: rgb(0, 110, 255);
+}
+
+.project-table-content{
+    padding-top: 15px;
+    text-align: center;
+}
+
+@media(max-width:875px){
+    #project1-table{
+        width: 80%;
+    }  
+    #project2-table{
+        margin: auto;
+        width: 80%;
+    }
+}

@@ -1,38 +1,52 @@
-.App {
-  text-align: center;
+body{
+  background-color: lightgray;
+  color: #555555;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6em;
+  margin: auto;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+html{
+  scroll-behavior: smooth;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+@media(max-width:875px){
+  #main{
+      width: 100%;
+      float: none;
   }
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  #nav-bar{
+      background-color: black;
+      text-align: center;
   }
-  to {
-    transform: rotate(360deg);
+
+  #nav-bar #contact-me-nav-link{
+      display: inline-block;
+      margin-top: 5px;
   }
+
+  #programming-languages-list{
+      float: none;
+      margin-left: 35%;
+  }
+
+  #applications-list{
+      margin-left: 35%;
+  }
+
+  #operating-systems-list{
+      margin-left: 35%;
+      margin-top: 10%;
+  }
+
+  .linked-in-class{
+      float: none;
+      margin-left: 35%;
+  }
+
+  .e-mail-class{
+      margin-left: 35%;
+  }
+
 }

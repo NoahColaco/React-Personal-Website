@@ -27,6 +27,7 @@ class ContactMe extends Component{
                     </div>
                     <br>
                     <br>
+                    <h2></h2>
                 </section>
             </div>
         )

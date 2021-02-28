@@ -16,7 +16,7 @@ class AboutMe extends Component{
                 <div class="container">
                     <section id="main">
                         <h1>Welcome</h1>
-                        <p>Hi! My name is Noah Colaco and I am currently a third-year Computer Science student at Ryerson University. I am currently seeking a software related position and throughout my years at Ryerson I have developed a broad set of skills. Feel free to explore my personal projects and skills, as well as contact me at the bottom of the page!</p>
+                        <p>Hi! My name is Noah Colaco and I am a third-year Computer Science student at Ryerson University seeking a software-related position. Feel free to explore my personal projects and skills, as well as contact me at the bottom of the page through my LinkedIn or Email!</p>
                     </section>
                 </div>
                 

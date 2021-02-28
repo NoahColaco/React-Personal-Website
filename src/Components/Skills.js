@@ -20,24 +20,29 @@ class Skills extends Component{
                             <ul>
                                 <li>Python</li>
                                 <li>Java</li>
+                                <li>SQL</li>
                                 <li>C/C++</li>
+                                <li>HTML/CSS</li>
                             </ul>
                         </div>
                         
                         <div id="second-list">
-                            <h2>Other</h2>
+                            <h2>Frameworks and Tools</h2>
                             <ul >
-                                <li>MySQL</li>
+                                <li>ReactJS</li>
                                 <li>Git</li>
                                 <li>Node.js</li>
+                                <li>MongoDB</li>
+                                <li>Django</li>
                             </ul>
                         </div>
                         <div id="third-list">
-                            <h2>Front End</h2>
+                            <h2>Concepts</h2>
                             <ul >
-                                <li>HTML/CSS</li>
-                                <li>JavaScript</li>
-                                <li>React</li>
+                                <li>Agile</li>
+                                <li>Data Mining</li>
+                                <li>Object Oriented Programming</li>
+                                <li>Testing/Validation</li>
                             </ul>
                         </div>
                     </div>

@@ -5,18 +5,21 @@ padding:0 0 0 15px;
 
 #programming-languages-list{
     float: left;
-    margin: 0 15% 0 5%;
+    width: 20%;
+    margin: 0 14% 0 5%;
     
 }
 
 #third-list{
     float: left;
+    width: 20%;
     margin: 0 5% 0 0;
 }
 
 #second-list{
     float: left;
-    margin: 0 15% 0 0;
+    width: 20%;
+    margin: 0 14% 0 0;
 }
 
 #skills-section{

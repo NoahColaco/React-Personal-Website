@@ -1,5 +1,7 @@
 ul { 
-    display: inline-block; 
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 0;
 }
 
 #programming-languages-list{

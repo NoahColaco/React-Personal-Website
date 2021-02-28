@@ -18,6 +18,8 @@
     position: fixed;
     width: 100%;
     top: 62px;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
 
 #nav-bar ul{

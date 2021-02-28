@@ -1,24 +1,22 @@
-ul { 
-    display: inline-block;
-    list-style-type: none;
-    vertical-align: top;
+ul, li{
+margin:0;
+padding:0 0 0 15px;    
 }
 
 #programming-languages-list{
-    width: 20%;
-    margin-left: 5%;
-    margin-top: 40px%;
+    float: left;
+    margin: 0 20px 0 0;
     
 }
 
 #third-list{
-    width: 20%;
-    margin-top: 30px%;
+    float: left;
+    margin: 0 20px 0 0;
 }
 
 #second-list{
-    width: 20%;
-    margin-top: 20px%;
+    float: left;
+    margin: 0 20px 0 0;
 }
 
 #skills-section{

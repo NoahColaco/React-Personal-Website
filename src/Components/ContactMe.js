@@ -25,8 +25,7 @@ class ContactMe extends Component{
                             <a title="noahcolaco@hotmail.com" href="mailto:noahcolaco@hotmail.com"><img id="email-image" src={emailImage} alt="E=mail"></img></a>
                         </div>    
                     </div>
-                    <br>
-                    <br>
+                  
                     <h2></h2>
                 </section>
             </div>

@@ -31,9 +31,10 @@ class Skills extends Component{
                             <ul >
                                 <li>ReactJS</li>
                                 <li>Git</li>
-                                <li>Node.js</li>
-                                <li>MongoDB</li>
-                                <li>Django</li>
+                                <li>DynamoDB</li>
+                                <li>Flask</li>
+                                <li>Travis CI</li>
+                                <li>Docker</li>
                             </ul>
                         </div>
                         <div id="third-list">

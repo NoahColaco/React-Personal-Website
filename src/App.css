@@ -6,9 +6,6 @@ body{
   margin: auto;
 }
 
-html{
-  scroll-behavior: smooth;
-}
 
 @media(max-width:875px){
   #main{

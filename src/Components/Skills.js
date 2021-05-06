@@ -29,12 +29,11 @@ class Skills extends Component{
                         <div id="second-list">
                             <h2>Frameworks and Tools</h2>
                             <ul >
-                                <li>ReactJS</li>
+                                <li>Angular</li>
                                 <li>Git</li>
-                                <li>DynamoDB</li>
                                 <li>Flask</li>
                                 <li>Travis CI</li>
-                                <li>Docker</li>
+                                <li>Azure DevOps</li>
                             </ul>
                         </div>
                         <div id="third-list">

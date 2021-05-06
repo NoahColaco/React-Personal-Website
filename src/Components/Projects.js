@@ -15,7 +15,7 @@ class Projects extends Component{
 
                 <table id="project1-table">
                     <tr class="project-table-header">
-                        <th title="Evaluate Tree"><p>Payroll Database Management System</p></th>
+                        <th title="Payroll Database Management System"><p>Payroll Database Management System</p></th>
                     </tr>
                     <tr>
                         <td class="project-table-content">Produced a database management system coupled with a front-end design which allows employees and managers to interact with their company’s payroll system.</td>

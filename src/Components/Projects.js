@@ -15,10 +15,10 @@ class Projects extends Component{
 
                 <table id="project1-table">
                     <tr class="project-table-header">
-                        <th title="Evaluate Tree"><p>Evaluate Tree</p></th>
+                        <th title="Evaluate Tree"><p>Payroll Database Management System</p></th>
                     </tr>
                     <tr>
-                        <td class="project-table-content">A python function that evaluates a binary tree in list of list form. The first parameter will be the expression with operators and variables or numbers, and the second parameter is the values of the variables if you used them. A test file is also included, which tests different cases.</td>
+                        <td class="project-table-content">Produced a database management system coupled with a front-end design which allows employees and managers to interact with their company’s payroll system.</td>
                     </tr>
                 </table>
 

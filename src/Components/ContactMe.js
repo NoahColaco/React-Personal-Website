@@ -18,11 +18,11 @@ class ContactMe extends Component{
                     <div class="container">
                         <div class="linked-in-class">
                             <h2>LinkedIn</h2>
-                            <a title="LinkedIn" href="https://www.linkedin.com/in/noah-colaco-224126163/" target="blank"><img id="linkedin-image" src={linkedinImage} alt="Linkedin"></img></a>
+                            <a title="LinkedIn" href="https://www.linkedin.com/in/noah-colaco-224126163/" target="blank"><img id="linkedin-image" src={linkedinImage} alt="https://www.linkedin.com/in/noah-colaco-224126163/"></img></a>
                         </div>
                         <div class="e-mail-class">
                             <h2>E-mail</h2>
-                            <a title="noahcolaco@hotmail.com" href="mailto:noahcolaco@hotmail.com"><img id="email-image" src={emailImage} alt="E=mail"></img></a>
+                            <a title="noah.colaco@ryerson.ca" href="mailto:noah.colaco@ryerson.ca"><img id="email-image" src={emailImage} alt="noah.colaco@ryerson.ca"></img></a>
                         </div>    
                     </div>
                   

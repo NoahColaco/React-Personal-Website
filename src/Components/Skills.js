@@ -31,7 +31,7 @@ class Skills extends Component{
                             <ul >
                                 <li>Angular</li>
                                 <li>Git</li>
-                                <li>Flask</li>
+                                <li>AWS</li>
                                 <li>Travis CI</li>
                                 <li>Azure DevOps</li>
                             </ul>

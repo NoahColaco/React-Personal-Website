@@ -22,7 +22,7 @@ class Skills extends Component{
                                 <li>Java</li>
                                 <li>SQL</li>
                                 <li>C/C++</li>
-                                <li>HTML/CSS</li>
+                                <li>HTML/CSS/JavaScript</li>
                             </ul>
                         </div>
                         
@@ -31,7 +31,7 @@ class Skills extends Component{
                             <ul >
                                 <li>Angular</li>
                                 <li>Git</li>
-                                <li>AWS</li>
+                                <li>Selenium</li>
                                 <li>Travis CI</li>
                                 <li>Azure DevOps</li>
                             </ul>
